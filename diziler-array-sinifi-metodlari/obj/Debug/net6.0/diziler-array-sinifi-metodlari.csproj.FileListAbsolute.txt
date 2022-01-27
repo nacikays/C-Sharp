@@ -1,0 +1,15 @@
+D:\Patika\C#\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.csproj.AssemblyReference.cache
+D:\Patika\C#\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.AssemblyInfoInputs.cache
+D:\Patika\C#\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.AssemblyInfo.cs
+D:\Patika\C#\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+D:\Patika\C#\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sinifi-metodlari.exe
+D:\Patika\C#\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sinifi-metodlari.deps.json
+D:\Patika\C#\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sinifi-metodlari.runtimeconfig.json
+D:\Patika\C#\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sinifi-metodlari.dll
+D:\Patika\C#\diziler-array-sinifi-metodlari\bin\Debug\net6.0\ref\diziler-array-sinifi-metodlari.dll
+D:\Patika\C#\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sinifi-metodlari.pdb
+D:\Patika\C#\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.dll
+D:\Patika\C#\diziler-array-sinifi-metodlari\obj\Debug\net6.0\ref\diziler-array-sinifi-metodlari.dll
+D:\Patika\C#\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.pdb
+D:\Patika\C#\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.genruntimeconfig.cache

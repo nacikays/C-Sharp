@@ -1,0 +1,15 @@
+D:\Patika\C#\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.exe
+D:\Patika\C#\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.deps.json
+D:\Patika\C#\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.runtimeconfig.json
+D:\Patika\C#\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.dll
+D:\Patika\C#\donguler-for-loop\bin\Debug\net6.0\ref\donguler-for-loop.dll
+D:\Patika\C#\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.pdb
+D:\Patika\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.AssemblyReference.cache
+D:\Patika\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfoInputs.cache
+D:\Patika\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfo.cs
+D:\Patika\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+D:\Patika\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.dll
+D:\Patika\C#\donguler-for-loop\obj\Debug\net6.0\ref\donguler-for-loop.dll
+D:\Patika\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.pdb
+D:\Patika\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.genruntimeconfig.cache

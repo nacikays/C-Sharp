@@ -1,0 +1,15 @@
+D:\Patika\C#\if-else-if\bin\Debug\net6.0\if-else-if.exe
+D:\Patika\C#\if-else-if\bin\Debug\net6.0\if-else-if.deps.json
+D:\Patika\C#\if-else-if\bin\Debug\net6.0\if-else-if.runtimeconfig.json
+D:\Patika\C#\if-else-if\bin\Debug\net6.0\if-else-if.dll
+D:\Patika\C#\if-else-if\bin\Debug\net6.0\ref\if-else-if.dll
+D:\Patika\C#\if-else-if\bin\Debug\net6.0\if-else-if.pdb
+D:\Patika\C#\if-else-if\obj\Debug\net6.0\if-else-if.csproj.AssemblyReference.cache
+D:\Patika\C#\if-else-if\obj\Debug\net6.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\if-else-if\obj\Debug\net6.0\if-else-if.AssemblyInfoInputs.cache
+D:\Patika\C#\if-else-if\obj\Debug\net6.0\if-else-if.AssemblyInfo.cs
+D:\Patika\C#\if-else-if\obj\Debug\net6.0\if-else-if.csproj.CoreCompileInputs.cache
+D:\Patika\C#\if-else-if\obj\Debug\net6.0\if-else-if.dll
+D:\Patika\C#\if-else-if\obj\Debug\net6.0\ref\if-else-if.dll
+D:\Patika\C#\if-else-if\obj\Debug\net6.0\if-else-if.pdb
+D:\Patika\C#\if-else-if\obj\Debug\net6.0\if-else-if.genruntimeconfig.cache

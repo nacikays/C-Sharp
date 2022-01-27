@@ -1,0 +1,15 @@
+D:\Patika\C#\diziler\bin\Debug\net6.0\diziler.exe
+D:\Patika\C#\diziler\bin\Debug\net6.0\diziler.deps.json
+D:\Patika\C#\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+D:\Patika\C#\diziler\bin\Debug\net6.0\diziler.dll
+D:\Patika\C#\diziler\bin\Debug\net6.0\ref\diziler.dll
+D:\Patika\C#\diziler\bin\Debug\net6.0\diziler.pdb
+D:\Patika\C#\diziler\obj\Debug\net6.0\diziler.csproj.AssemblyReference.cache
+D:\Patika\C#\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+D:\Patika\C#\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+D:\Patika\C#\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+D:\Patika\C#\diziler\obj\Debug\net6.0\diziler.dll
+D:\Patika\C#\diziler\obj\Debug\net6.0\ref\diziler.dll
+D:\Patika\C#\diziler\obj\Debug\net6.0\diziler.pdb
+D:\Patika\C#\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache

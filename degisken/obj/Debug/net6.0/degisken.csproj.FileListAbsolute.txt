@@ -1,0 +1,15 @@
+D:\Patika\C#\degisken\bin\Debug\net6.0\degisken.exe
+D:\Patika\C#\degisken\bin\Debug\net6.0\degisken.deps.json
+D:\Patika\C#\degisken\bin\Debug\net6.0\degisken.runtimeconfig.json
+D:\Patika\C#\degisken\bin\Debug\net6.0\degisken.dll
+D:\Patika\C#\degisken\bin\Debug\net6.0\ref\degisken.dll
+D:\Patika\C#\degisken\bin\Debug\net6.0\degisken.pdb
+D:\Patika\C#\degisken\obj\Debug\net6.0\degisken.csproj.AssemblyReference.cache
+D:\Patika\C#\degisken\obj\Debug\net6.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\degisken\obj\Debug\net6.0\degisken.AssemblyInfoInputs.cache
+D:\Patika\C#\degisken\obj\Debug\net6.0\degisken.AssemblyInfo.cs
+D:\Patika\C#\degisken\obj\Debug\net6.0\degisken.csproj.CoreCompileInputs.cache
+D:\Patika\C#\degisken\obj\Debug\net6.0\degisken.dll
+D:\Patika\C#\degisken\obj\Debug\net6.0\ref\degisken.dll
+D:\Patika\C#\degisken\obj\Debug\net6.0\degisken.pdb
+D:\Patika\C#\degisken\obj\Debug\net6.0\degisken.genruntimeconfig.cache
