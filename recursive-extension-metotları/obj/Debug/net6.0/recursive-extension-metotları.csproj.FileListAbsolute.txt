@@ -1,0 +1,15 @@
+D:\Patika\C#\recursive-extension-metotları\obj\Debug\net6.0\recursive-extension-metotları.csproj.AssemblyReference.cache
+D:\Patika\C#\recursive-extension-metotları\obj\Debug\net6.0\recursive-extension-metotları.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\recursive-extension-metotları\obj\Debug\net6.0\recursive-extension-metotları.AssemblyInfoInputs.cache
+D:\Patika\C#\recursive-extension-metotları\obj\Debug\net6.0\recursive-extension-metotları.AssemblyInfo.cs
+D:\Patika\C#\recursive-extension-metotları\obj\Debug\net6.0\recursive-extension-metotları.csproj.CoreCompileInputs.cache
+D:\Patika\C#\recursive-extension-metotları\bin\Debug\net6.0\recursive-extension-metotları.exe
+D:\Patika\C#\recursive-extension-metotları\bin\Debug\net6.0\recursive-extension-metotları.deps.json
+D:\Patika\C#\recursive-extension-metotları\bin\Debug\net6.0\recursive-extension-metotları.runtimeconfig.json
+D:\Patika\C#\recursive-extension-metotları\bin\Debug\net6.0\recursive-extension-metotları.dll
+D:\Patika\C#\recursive-extension-metotları\bin\Debug\net6.0\ref\recursive-extension-metotları.dll
+D:\Patika\C#\recursive-extension-metotları\bin\Debug\net6.0\recursive-extension-metotları.pdb
+D:\Patika\C#\recursive-extension-metotları\obj\Debug\net6.0\recursive-extension-metotları.dll
+D:\Patika\C#\recursive-extension-metotları\obj\Debug\net6.0\ref\recursive-extension-metotları.dll
+D:\Patika\C#\recursive-extension-metotları\obj\Debug\net6.0\recursive-extension-metotları.pdb
+D:\Patika\C#\recursive-extension-metotları\obj\Debug\net6.0\recursive-extension-metotları.genruntimeconfig.cache
