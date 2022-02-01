@@ -21,7 +21,9 @@ Metot imzası:
     {
         Console.WriteLine(deger1 + deger2);
     }
-    ```
+    
+   ```
+    
 Yukarıda EkranaYazdir isimli metodun 3 overload versiyonunu görüyoruz. Parametre sayısı ve parametre veri tiplerini değiştirerek aşırı yüklemiş olduk.
 
 ÖNEMLİ : Geri dönüş tipi metot imzasına dahil değildir. Yani sadece geri dönüş tipini değiştirerek bir metodu aşırı yükleyemeyiz. Derleyici hata verecektir.
