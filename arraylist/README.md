@@ -7,7 +7,7 @@ Standart dizilerde aynı tipte verileri verileri bir arada tutabileceğimizi ve 
 Varsayılan boyutu başlangıç olarak 4'tür. Aşıldığından otomatik olarak 2 katına çıkarılır. Yani bir array liste 5. elemanı eklemeye calıştıgınızda atka planda boyutunun 8'e çıkarır.
 
 
-Örnek:
+**Örnek:**
 ```
 ArrayList dizi = new ArrayList();
 
