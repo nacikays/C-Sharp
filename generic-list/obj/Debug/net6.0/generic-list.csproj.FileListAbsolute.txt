@@ -1,0 +1,15 @@
+D:\Patika\C#\generic-list\obj\Debug\net6.0\generic-list.csproj.AssemblyReference.cache
+D:\Patika\C#\generic-list\obj\Debug\net6.0\generic-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\generic-list\obj\Debug\net6.0\generic-list.AssemblyInfoInputs.cache
+D:\Patika\C#\generic-list\obj\Debug\net6.0\generic-list.AssemblyInfo.cs
+D:\Patika\C#\generic-list\obj\Debug\net6.0\generic-list.csproj.CoreCompileInputs.cache
+D:\Patika\C#\generic-list\bin\Debug\net6.0\generic-list.exe
+D:\Patika\C#\generic-list\bin\Debug\net6.0\generic-list.deps.json
+D:\Patika\C#\generic-list\bin\Debug\net6.0\generic-list.runtimeconfig.json
+D:\Patika\C#\generic-list\bin\Debug\net6.0\generic-list.dll
+D:\Patika\C#\generic-list\bin\Debug\net6.0\ref\generic-list.dll
+D:\Patika\C#\generic-list\bin\Debug\net6.0\generic-list.pdb
+D:\Patika\C#\generic-list\obj\Debug\net6.0\generic-list.dll
+D:\Patika\C#\generic-list\obj\Debug\net6.0\ref\generic-list.dll
+D:\Patika\C#\generic-list\obj\Debug\net6.0\generic-list.pdb
+D:\Patika\C#\generic-list\obj\Debug\net6.0\generic-list.genruntimeconfig.cache
