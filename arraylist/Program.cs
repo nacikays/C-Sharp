@@ -31,7 +31,7 @@ namespace arraylist
             Console.WriteLine(item);
         
         //Sort
-        Console.WriteLine("**** Sort ****")    
+        Console.WriteLine("**** Sort ****");
         liste.Sort();
 
         foreach (var item in liste)
