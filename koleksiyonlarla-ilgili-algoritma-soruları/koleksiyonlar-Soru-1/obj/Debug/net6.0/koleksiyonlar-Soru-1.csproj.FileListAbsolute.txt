@@ -1,0 +1,15 @@
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\bin\Debug\net6.0\koleksiyonlar-Soru-1.exe
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\bin\Debug\net6.0\koleksiyonlar-Soru-1.deps.json
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\bin\Debug\net6.0\koleksiyonlar-Soru-1.runtimeconfig.json
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\bin\Debug\net6.0\koleksiyonlar-Soru-1.dll
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\bin\Debug\net6.0\ref\koleksiyonlar-Soru-1.dll
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\bin\Debug\net6.0\koleksiyonlar-Soru-1.pdb
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\obj\Debug\net6.0\koleksiyonlar-Soru-1.csproj.AssemblyReference.cache
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\obj\Debug\net6.0\koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\obj\Debug\net6.0\koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\obj\Debug\net6.0\koleksiyonlar-Soru-1.AssemblyInfo.cs
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\obj\Debug\net6.0\koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\obj\Debug\net6.0\koleksiyonlar-Soru-1.dll
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\obj\Debug\net6.0\ref\koleksiyonlar-Soru-1.dll
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\obj\Debug\net6.0\koleksiyonlar-Soru-1.pdb
+D:\Patika\C#\koleksiyonlarla-ilgili-algoritma-soruları\koleksiyonlar-Soru-1\obj\Debug\net6.0\koleksiyonlar-Soru-1.genruntimeconfig.cache
