@@ -24,7 +24,7 @@ namespace koleksiyonlar_soru_1
             int asalolmayan_sayisi=0;
             int asalolmayan_toplam=0;
         
-            for (int i = 1; i <=4; i++)
+            for (int i = 1; i <=20; i++)
             {
                 Console.WriteLine(i+". Sayıyı Giriniz:");
                 int a = Convert.ToInt32(Console.ReadLine());
