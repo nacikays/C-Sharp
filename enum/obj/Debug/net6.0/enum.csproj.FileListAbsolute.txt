@@ -1,0 +1,15 @@
+D:\Patika\C#\enum\bin\Debug\net6.0\enum.exe
+D:\Patika\C#\enum\bin\Debug\net6.0\enum.deps.json
+D:\Patika\C#\enum\bin\Debug\net6.0\enum.runtimeconfig.json
+D:\Patika\C#\enum\bin\Debug\net6.0\enum.dll
+D:\Patika\C#\enum\bin\Debug\net6.0\ref\enum.dll
+D:\Patika\C#\enum\bin\Debug\net6.0\enum.pdb
+D:\Patika\C#\enum\obj\Debug\net6.0\enum.csproj.AssemblyReference.cache
+D:\Patika\C#\enum\obj\Debug\net6.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\enum\obj\Debug\net6.0\enum.AssemblyInfoInputs.cache
+D:\Patika\C#\enum\obj\Debug\net6.0\enum.AssemblyInfo.cs
+D:\Patika\C#\enum\obj\Debug\net6.0\enum.csproj.CoreCompileInputs.cache
+D:\Patika\C#\enum\obj\Debug\net6.0\enum.dll
+D:\Patika\C#\enum\obj\Debug\net6.0\ref\enum.dll
+D:\Patika\C#\enum\obj\Debug\net6.0\enum.pdb
+D:\Patika\C#\enum\obj\Debug\net6.0\enum.genruntimeconfig.cache
