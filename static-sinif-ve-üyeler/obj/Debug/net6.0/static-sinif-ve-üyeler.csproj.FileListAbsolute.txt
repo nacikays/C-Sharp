@@ -1,0 +1,15 @@
+D:\Patika\C#\static-sinif-ve-üyeler\obj\Debug\net6.0\static-sinif-ve-üyeler.csproj.AssemblyReference.cache
+D:\Patika\C#\static-sinif-ve-üyeler\obj\Debug\net6.0\static-sinif-ve-üyeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\static-sinif-ve-üyeler\obj\Debug\net6.0\static-sinif-ve-üyeler.AssemblyInfoInputs.cache
+D:\Patika\C#\static-sinif-ve-üyeler\obj\Debug\net6.0\static-sinif-ve-üyeler.AssemblyInfo.cs
+D:\Patika\C#\static-sinif-ve-üyeler\obj\Debug\net6.0\static-sinif-ve-üyeler.csproj.CoreCompileInputs.cache
+D:\Patika\C#\static-sinif-ve-üyeler\bin\Debug\net6.0\static-sinif-ve-üyeler.exe
+D:\Patika\C#\static-sinif-ve-üyeler\bin\Debug\net6.0\static-sinif-ve-üyeler.deps.json
+D:\Patika\C#\static-sinif-ve-üyeler\bin\Debug\net6.0\static-sinif-ve-üyeler.runtimeconfig.json
+D:\Patika\C#\static-sinif-ve-üyeler\bin\Debug\net6.0\static-sinif-ve-üyeler.dll
+D:\Patika\C#\static-sinif-ve-üyeler\bin\Debug\net6.0\ref\static-sinif-ve-üyeler.dll
+D:\Patika\C#\static-sinif-ve-üyeler\bin\Debug\net6.0\static-sinif-ve-üyeler.pdb
+D:\Patika\C#\static-sinif-ve-üyeler\obj\Debug\net6.0\static-sinif-ve-üyeler.dll
+D:\Patika\C#\static-sinif-ve-üyeler\obj\Debug\net6.0\ref\static-sinif-ve-üyeler.dll
+D:\Patika\C#\static-sinif-ve-üyeler\obj\Debug\net6.0\static-sinif-ve-üyeler.pdb
+D:\Patika\C#\static-sinif-ve-üyeler\obj\Debug\net6.0\static-sinif-ve-üyeler.genruntimeconfig.cache
