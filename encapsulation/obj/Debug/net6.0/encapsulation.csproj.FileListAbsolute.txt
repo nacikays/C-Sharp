@@ -1,0 +1,15 @@
+D:\Patika\C#\encapsulation\bin\Debug\net6.0\encapsulation.exe
+D:\Patika\C#\encapsulation\bin\Debug\net6.0\encapsulation.deps.json
+D:\Patika\C#\encapsulation\bin\Debug\net6.0\encapsulation.runtimeconfig.json
+D:\Patika\C#\encapsulation\bin\Debug\net6.0\encapsulation.dll
+D:\Patika\C#\encapsulation\bin\Debug\net6.0\ref\encapsulation.dll
+D:\Patika\C#\encapsulation\bin\Debug\net6.0\encapsulation.pdb
+D:\Patika\C#\encapsulation\obj\Debug\net6.0\encapsulation.csproj.AssemblyReference.cache
+D:\Patika\C#\encapsulation\obj\Debug\net6.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfoInputs.cache
+D:\Patika\C#\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfo.cs
+D:\Patika\C#\encapsulation\obj\Debug\net6.0\encapsulation.csproj.CoreCompileInputs.cache
+D:\Patika\C#\encapsulation\obj\Debug\net6.0\encapsulation.dll
+D:\Patika\C#\encapsulation\obj\Debug\net6.0\ref\encapsulation.dll
+D:\Patika\C#\encapsulation\obj\Debug\net6.0\encapsulation.pdb
+D:\Patika\C#\encapsulation\obj\Debug\net6.0\encapsulation.genruntimeconfig.cache
