@@ -1,0 +1,15 @@
+D:\Patika\C#\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.csproj.AssemblyReference.cache
+D:\Patika\C#\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.AssemblyInfoInputs.cache
+D:\Patika\C#\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.AssemblyInfo.cs
+D:\Patika\C#\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.csproj.CoreCompileInputs.cache
+D:\Patika\C#\sınıf-kavramı\bin\Debug\net6.0\sınıf-kavramı.exe
+D:\Patika\C#\sınıf-kavramı\bin\Debug\net6.0\sınıf-kavramı.deps.json
+D:\Patika\C#\sınıf-kavramı\bin\Debug\net6.0\sınıf-kavramı.runtimeconfig.json
+D:\Patika\C#\sınıf-kavramı\bin\Debug\net6.0\sınıf-kavramı.dll
+D:\Patika\C#\sınıf-kavramı\bin\Debug\net6.0\ref\sınıf-kavramı.dll
+D:\Patika\C#\sınıf-kavramı\bin\Debug\net6.0\sınıf-kavramı.pdb
+D:\Patika\C#\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.dll
+D:\Patika\C#\sınıf-kavramı\obj\Debug\net6.0\ref\sınıf-kavramı.dll
+D:\Patika\C#\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.pdb
+D:\Patika\C#\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.genruntimeconfig.cache
