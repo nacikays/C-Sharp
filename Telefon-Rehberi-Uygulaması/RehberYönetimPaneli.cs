@@ -84,7 +84,7 @@ namespace rehber_proje1
 
 
 
-        public void KayıtGüncelleme(List <Rehber> RehberListesi)//KayıtGüncelleme Kelimesi Kullanılarak Dİğer Alanlardan Buraya Erişim Sağlanacak
+        public void KayıtGüncelleme(List <Rehber> RehberListesi)//KayıtGüncelleme Kelimesi Kullanılarak Diğer Alanlardan Buraya Erişim Sağlanacak
         {
             Console.WriteLine("Numarasını Güncellemek İstediğiniz Kişinin Adını ve Soyadını Girmelisiniz!\nİsim Giriniz:");
             String isim = Console.ReadLine();
@@ -144,7 +144,7 @@ namespace rehber_proje1
         }
 
 
-        public void KisileriListele (List <Rehber> RehberListesi) //KisileriListele kelimesi ile diğer tüm alanlardan erişim sağlanabilir.
+        public void KisileriListele (List <Rehber> RehberListesi) //KisileriListele Kelimesi Kullanılarak Diğer Alanlardan Buraya Erişim Sağlanacak.
         {
            Console.WriteLine("Telefon Rehberi\n*********************");
            foreach (var item in RehberListesi)
@@ -157,7 +157,7 @@ namespace rehber_proje1
         }
 
 
-        public void KisiArama (List <Rehber> RehberListesi)
+        public void KisiArama (List <Rehber> RehberListesi)//KisiArama Kelimesi Kullanılarak Diğer Alanlardan Buraya Erişim Sağlanacak
         {
             Console.WriteLine("Arama yapmak istediğiniz tipi seçiniz.");
             Console.WriteLine("**************************************");
