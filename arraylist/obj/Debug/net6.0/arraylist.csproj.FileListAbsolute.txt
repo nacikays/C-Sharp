@@ -1,0 +1,5 @@
+D:\Patika\C#\arraylist\obj\Debug\net6.0\arraylist.csproj.AssemblyReference.cache
+D:\Patika\C#\arraylist\obj\Debug\net6.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfoInputs.cache
+D:\Patika\C#\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfo.cs
+D:\Patika\C#\arraylist\obj\Debug\net6.0\arraylist.csproj.CoreCompileInputs.cache
