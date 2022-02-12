@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\naci_\\Desktop\\Telefon-Rehberi-Uygulaması\\Telefon-Rehberi-Uygulaması.csproj",
+      "projectUniqueName": "D:\\Patika\\C#\\Telefon-Rehberi-Uygulaması\\Telefon-Rehberi-Uygulaması.csproj",
       "projectName": "Telefon-Rehberi-Uygulaması",
-      "projectPath": "C:\\Users\\naci_\\Desktop\\Telefon-Rehberi-Uygulaması\\Telefon-Rehberi-Uygulaması.csproj",
+      "projectPath": "D:\\Patika\\C#\\Telefon-Rehberi-Uygulaması\\Telefon-Rehberi-Uygulaması.csproj",
       "packagesPath": "C:\\Users\\naci_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\naci_\\Desktop\\Telefon-Rehberi-Uygulaması\\obj\\",
+      "outputPath": "D:\\Patika\\C#\\Telefon-Rehberi-Uygulaması\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\naci_\\AppData\\Roaming\\NuGet\\NuGet.Config",

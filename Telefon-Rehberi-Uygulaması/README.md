@@ -8,7 +8,7 @@ Yeni bir console uygulaması açarak telefon rehberi uygulaması yazınız. Uygu
 - Telefon Numarası Kaydet
 - Telefon Numarası Sil
 - Telefon Numarası Güncelle
-- Rehber Listeleme (A-Z, Z-A seçimli)
+- Rehber Listeleme 
 - Rehberde Arama
 
 
